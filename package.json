@@ -1,0 +1,22 @@
+{
+  "name": "@slowblink/web-extension",
+  "version": "0.1.0",
+  "license": "MIT",
+  "files": [
+    "*.json",
+    "*.ts",
+    "*.js",
+    "src",
+    "src/*.ts",
+    "src/*.js",
+    "src/*.json"
+  ],
+  "scripts": {
+    "test": ""
+  },
+  "devDependencies": {
+    "chrome-types": "0.1.345",
+    "typescript": "^5.8.2"
+  },
+  "packageManager": "yarn@4.7.0"
+}
