@@ -20,4 +20,4 @@ Calculate Maine Coon colors with less clicks via [https://slowblinkmainecoons.co
 
 ## More
 - Source Code: [https://github.com/slowblinkmainecoons/web-extension](https://github.com/slowblinkmainecoons/web-extension)
-- Color Calculator: [https://slowblinkmainecoons.com/color-calculator](https://slowblinkmainecoons.com/color-calculator)
+- Color Calculator: [https://slowblinkmainecoons.com/color-calculator](https://slowblinkmainecoons.com/color-calculator#web-extension)
