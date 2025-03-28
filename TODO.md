@@ -13,6 +13,7 @@
 
 # <= V2.0.0
 
+- [ ] add social img to github
 - [ ] fancy styles
 - [ ] use more of the notification background event setup
 - [ ] move the TODO file to issues
