@@ -1,9 +1,9 @@
 {
   "$schema": "https://raw.githubusercontent.com/cezaraugusto/chrome-extension-manifest-json-schema/732c02b21ae792a152b660335e6be766ff7c712f/manifest/manifest.schema.v3.json",
   "manifest_version": 3,
-  "name": "Cat Color Calculator | BETA",
-  "version": "0.1.1",
-  "description": "Calculate Maine Coon Cat offspring colors | THIS EXTENSION IS FOR BETA TESTING",
+  "name": "Cat Color Calculator",
+  "version": "0.1.3",
+  "description": "Calculate Maine Coon Cat offspring colors",
   "homepage_url": "https://github.com/slowblinkmainecoons/web-extension",
   "short_name": "Cat Calc",
   "permissions": [
