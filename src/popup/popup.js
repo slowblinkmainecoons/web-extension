@@ -8,12 +8,9 @@ function calculateColorForInputsInner(options = {...DEFAULT_OPTIONS}) {
   const momColor = document.getElementById('momColor').value;
 
   // create URL
-  const [dad, mom] = [dadColor, momColor].map(color =>
-    encodeURIComponent(color)
-  );
   const newUrlObj = new URL(`https://slowblinkmainecoons.com/color-calculator`);
-  newUrlObj.searchParams.append('dadColor', dad);
-  newUrlObj.searchParams.append('momColor', mom);
+  newUrlObj.searchParams.append('dadColor', dadColor);
+  newUrlObj.searchParams.append('momColor', momColor);
   newUrlObj.searchParams.append('view_mode', options.view_mode);
   const newUrl = newUrlObj.toString();
 
